@@ -2,7 +2,7 @@ syntax on
 set exrc
 set guicursor=
 set relativenumber
-set nohlsearch
+set hlsearch
 set hidden
 set noerrorbells
 set tabstop=4 softtabstop=4
